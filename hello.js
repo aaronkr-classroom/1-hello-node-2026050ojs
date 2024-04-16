@@ -1,6 +1,8 @@
-// Hello.js
+// hello.js
 /*
-    A program to say "Hello"!
-    I like JS.
+    Hello World program
+    It is the first
+    It is boring
+    OK
 */
-console.log("Hello!");
+console.log("Hello World!!!@#@$@#!#@#!@#");
